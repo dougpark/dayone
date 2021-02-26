@@ -1,11 +1,11 @@
-# dayone
+# DayOne CLI
 Better Touch Tool create a DayOne journal entry
 
 I created a Better Touch Tool keyboard shortcut to save the highlighted text to a DayOne journal. I use this all the time to save command line tools for later use.
 
-You must have Better Touch Tool installed
-You must have DayOne installed
-You must have DayOne2 CLI installed
+* You must have Better Touch Tool installed
+* You must have DayOne installed
+* You must have DayOne2 CLI installed
 
 Create a journal in DayOne, my example journal name is "Tech"
 
