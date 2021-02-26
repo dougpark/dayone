@@ -1,7 +1,7 @@
 # DayOne CLI
 Better Touch Tool create a DayOne journal entry
 
-I created a Better Touch Tool keyboard shortcut to save the highlighted text to a DayOne journal. I use this all the time to save command line tools for later use.
+I created a Better Touch Tool keyboard shortcut to save the highlighted text to a DayOne journal. I use this all the time to save text snippets for later use. I like how DayOne automatically adds the current date and time to the entry.
 
 * You must have [Better Touch Tool](https://folivora.ai/downloads) installed
 * You must have [DayOne](https://dayoneapp.com) installed
