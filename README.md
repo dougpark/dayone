@@ -26,3 +26,6 @@ Create an All Apps keyboard shortcut in BTT, I used the new [Hyper Key](https://
 That's it. Now when I highlight some text and press caps-lock A it will create a new DayOne entry.
 
 ![BTT Command](https://github.com/dougpark/dayone/blob/main/btt_dayone.png?raw=true)
+
+<img width="115" alt="image" src="https://user-images.githubusercontent.com/20155398/109350620-67846480-783d-11eb-9b3e-b7d50317ab07.png">
+
