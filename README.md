@@ -15,7 +15,7 @@ Create an All Apps keyboard shortcut in BTT, I used the new [Hyper Key](https://
 
 2. I then quickly show a BTT HUD (this is optional) that a "Save to DayOne" command has been issued.
 
-3. Finally, I issue a terminal command with BTT. This command calls the DayOne2 CLI and passes it the arguments to create the entry.
+3. Finally, I execute a terminal command with BTT. This command calls the DayOne2 CLI and passes it the arguments to create the entry.
 
 * /usr/local/bin/dayone2 - path and command to execute
 * -j tells DayOne the name of the journal to use, in this case my "Tech" journal
