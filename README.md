@@ -9,7 +9,7 @@ I created a Better Touch Tool keyboard shortcut to save the highlighted text to 
 
 Create a journal in DayOne, my example journal name is "Tech"
 
-Create an All Apps keyboard shortcut in BTT, I used the new [Hyper Key](https://www.macsparky.com/blog/2021/2/hyper-key-via-bettertouchtool) feature to map caps-lock as a meta key. It's a great way to have a lot of simple keyboard shortcuts. I mapped it to the "A" key, since it was close to the caps-lock key and easy to reach.
+Create an All Apps keyboard shortcut in BTT, I used the new [Hyper Key](https://www.macsparky.com/blog/2021/2/hyper-key-via-bettertouchtool) feature to map Shift-Control-Option-Command to caps-lock as a meta key. It's a great way to have a lot of simple keyboard shortcuts. I mapped it to the "A" key, since it was close to the caps-lock key and easy to reach.
 
 1. The first action is to save the selected text to a BTT variable called selected_text.
 
